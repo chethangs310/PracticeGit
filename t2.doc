@@ -8,3 +8,4 @@ git push -u origin main
 git remote add origin git@github.com:chethangs310/PracticeGit.git
 git branch -M main
 git push -u origin main  
+ the stash is working in t2 file 
